@@ -66,7 +66,7 @@ nav ul li a {
     border: none;
     cursor: pointer;
     --border-right: 6px;
-    --text-stroke-color: rgb(247, 242, 242);
+    --text-stroke-color: rgba(255,255,255,0.6);
     --animation-color: #37FF8B;
     --fs-size: 2em;
     letter-spacing: 3px;
