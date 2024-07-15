@@ -6,21 +6,21 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/wallhaven-oxlv7l_1920x1080.png" alt="Nyebe" width="150" >
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">WD-Finals</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+ This project involves a 5 page personal website to highlight my design skills and web development knowledge.
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=ladiesman416/WD-Finals)
 
 ---
 
@@ -59,18 +59,16 @@
 <!-- The following are just sample -->
 Description of the project in details.
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+The project involves building my personal website that serves as a portfolio to showcase my design skills and web development knowledge, The purpose of this project is to create a professional online presence that demonstrates my abilities in web design and development.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- Multi Page Website
+- Hover Effects
+- Header Animations
+- Footer
+- Projects
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -117,4 +115,9 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Product Page by ValentinSLN - Web UI Inspiration  | Source of UI reference for pages | https://uigarage.net/product-page-by-valentinsln-web-ui-inspiration/ |
+| Uiverse Elements | Collection of UI elements for web design | https://uiverse.io/elements |
+| Dribbble - Feature Design Search | Platform to search for design features and inspiration	 | https://dribbble.com/search/feature-deaign |
+| 100+ Underline/Overlay Animations - The Advanced CSS Collection | Guide to advanced CSS animations | https://dev.to/afif/still-100-underline-overlay-animations-the-advanced-css-collection-4mol |
+| W3Schools CSS	 | Comprehensive resource for learning CSS | https://www.w3schools.com/css/default.asp
+|Daily handpicked UI inspiration & patterns|Reference for page layout|https://uigarage.net/|
