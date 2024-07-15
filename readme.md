@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
- This project involves a 5 page personal website to highlight my design skills and web development knowledge.
+ This project involves a 5 page personal website with a compilation of past projects and seatworks.
 </div>
 
 <br />
@@ -67,8 +67,24 @@ The project involves building my personal website that serves as a portfolio to 
 - Multi Page Website
 - Hover Effects
 - Header Animations
+- Navigations
 - Footer
 - Projects
+
+## Deployment Link
+https://ladiesman416.github.io/WD-Finals/
+
+## Links for other Projects
+- Seatwork 2
+https://ladiesman416.github.io/WD-my_Website/
+- seatwork 3
+https://ladiesman416.github.io/WD-Seatwork_3/
+- Seatwork 4
+https://ladiesman416.github.io/WD-Seatwork-4-/
+
+## Wakatime
+- https://wakatime.com/projects/WD-Finals?start=2024-07-10&end=2024-07-16
+
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -88,24 +104,51 @@ The project involves building my personal website that serves as a portfolio to 
 7. File Structure to follow below.
 
 ```
-WD-ProjectName
+WD-FINALS
 └─ assets
 |   └─ css
 |   |   └─ style.css
 |   └─ img
-|   |   └─ fileWith.jpeg/.jpg/.webp/.png
+|   |   └─ files With.jpg/.png
 |   └─ js
 |       └─ script.js
 └─ pages
-|  └─ pageName
-|     └─ assets
-|     |  └─ css
-|     |  |  └─ style.css
-|     |  └─ img
-|     |  |  └─ fileWith.jpeg/.jpg/.webp/.png
-|     |  └─ js
-|     |     └─ script.js
-|     └─ index.html
+|  └─  aboutMe
+|  |  └─ assets
+|  |   |  └─ css
+|  |   |  |  └─ style.css
+|  |   |  └─ img
+|  |   |  |  └─ files With.jpg/.png
+|  |   |  └─ js
+|  |   |     └─ script.js
+|  |   └─ index.html
+└─ └─ credits
+|  |  └─ assets
+|  |   |  └─ css
+|  |   |  |  └─ style.css
+|  |   |  └─ img
+|  |   |  |  └─ files With.jpg/.png
+|  |   |  └─ js
+|  |   |     └─ script.js
+|  |   └─ index.html
+|  └─  projects
+|  |  └─ assets
+|  |   |  └─ css
+|  |   |  |  └─ style.css
+|  |   |  └─ img
+|  |   |     └─ files With.jpg/.png
+|  |   |  └─ js
+|  |   |     └─ script.js
+|  |   └─ index.html
+└─ └─ socials
+|  |  └─ assets
+|  |   |  └─ css
+|  |   |  |  └─ style.css
+|  |   |  └─ img
+|  |   |  |  └─ files With.jpg/.png
+|  |   |  └─ js
+|  |   |     └─ script.js
+|  |   └─ index.html
 └─ index.html
 └─ readme.md
 ```
